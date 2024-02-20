@@ -1,1 +1,1 @@
-Uso das bibliotecas Pandas, MatplotLib e Seaborn para visualização de dados. Confira o notebook criado clicando [aqui]([URL_do_link](https://nbviewer.org/github/ViniciusBardelin/data-visualization-python/blob/main/DataVisualization.ipynb)https://nbviewer.org/github/ViniciusBardelin/data-visualization-python/blob/main/DataVisualization.ipynb)
+Uso das bibliotecas Pandas, MatplotLib e Seaborn para visualização de dados. Confira o notebook criado clicando [aqui](https://nbviewer.org/github/ViniciusBardelin/data-visualization-python/blob/main/DataVisualization.ipynb)
